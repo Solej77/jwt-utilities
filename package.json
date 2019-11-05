@@ -1,0 +1,23 @@
+{
+  "name": "jwt-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solej77/jwt-utilities.git"
+  },
+  "keywords": [],
+  "author": "José Luis García López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solej77/jwt-utilities/issues"
+  },
+  "homepage": "https://github.com/Solej77/jwt-utilities#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
